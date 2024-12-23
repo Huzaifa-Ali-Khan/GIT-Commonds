@@ -37,16 +37,6 @@ git config --unset user.name
 git status
 
 
-
-
-
-
-
-
-
-
-
-
 Creating and Pushing Code
 Steps to Create a Repository and Push Code:
 1. Initialize Git:
@@ -96,7 +86,7 @@ o	Git clone <url>
 o	Git pull origin dev
 
 •	To fetch all branches: -
-Git pull
+	Git pull
 •	To fetch all branches: -
 	Git fetch
 
